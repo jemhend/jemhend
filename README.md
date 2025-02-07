@@ -25,14 +25,14 @@ Hobbies: ["Roller Derby", "Running",]
 
 <h2> &nbsp;Tools </h2>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin: 0 15px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp" width="45" height="45" style="margin: 0 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 0 15px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="45" height="45" style="margin: 0 15px; background-color: #ffffff; padding: 5px; border-radius: 8px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin: 0 15px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="Github" width="45" height="45" style="margin: 0 15px; background-color: #ffffff; padding: 5px; border-radius: 8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin: 0 15px;"/>
+<p left="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin: 0 20px;"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp" width="45" height="45" style="margin: 0 20px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 0 20px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="45" height="45" style="margin: 0 20px; background-color: #ffffff; padding: 5px; border-radius: 8px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="margin: 0 20px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="Github" width="45" height="45" style="margin: 0 20px; background-color: #ffffff; padding: 5px; border-radius: 8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin: 0 20px;"/>
 </p>
 
 
