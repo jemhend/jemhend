@@ -7,7 +7,6 @@
 Name: "Jemma Henderson"
 Location: "Cardiff, UK"
 Current_Role: "Software Engineer"
-LinkedIn: "https://www.linkedin.com/in/jemma-henderson-09474265"
 Education:
     [
         Code First Girls: "CFGdegree Merit in Software Engineering";
