@@ -45,5 +45,12 @@ I'm on a new career path as a Software Engineer after over 20 years in retail ma
 I started to learn to code in my spare time with Codecademy and Youtube tutorials, then discovered Code First Girls and signed up for a JS kickstarter.  A year later I have completed multiple CFG courses, including the CFGdegree, and have started my first tech role.
 </p>
 
-Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jemma-henderson-09474265)
+
+<p>
+Connect with me here
+<a href="https://www.linkedin.com/in/jemma-henderson-09474265">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" style="margin: -20px 15px;"/>
+</a>
+</p>
+
 
