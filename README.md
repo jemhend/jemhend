@@ -27,7 +27,6 @@ Hobbies: ["Roller Derby", "Running",]
 <h2> &nbsp;Tools </h2>
 
 <p left="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin: 0 20px; background-color: #ffffff; padding: 5px; border-radius: 8px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin: 0 20px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="Csharp" width="45" height="45" style="margin: 0 20px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 0 20px;"/>        
