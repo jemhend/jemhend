@@ -47,7 +47,7 @@ Hobbies: ["Roller Derby", "Running",]
 <p>Hi, I'm Jemma.
 I'm on a new career path as a Software Engineer after over 20 years in retail management and banking.  I love problem solving and learning new things.
 
-I started to learn to code in my spare time with Codecademy and YouTube tutorials, then discovered Code First Girls and signed up for a JS kickstarter.  A year later I have completed multiple CFG courses, including the CFGdegree, and have started my first tech role.
+I started to learn to code in my spare time with Codecademy and YouTube tutorials, then discovered Code First Girls and signed up for a JS kickstarter.  After completing multiple CFG courses, including the CFGdegree, I started my first tech role working in C++.
 </p>
 
 
